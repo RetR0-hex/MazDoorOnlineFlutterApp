@@ -1,0 +1,1 @@
+-keep class com.retr0.mazdoor_online_labor_app.BuildConfig { *; }
